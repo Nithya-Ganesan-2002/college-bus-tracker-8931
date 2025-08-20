@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/college-bus-tracker-8931/flutter_mobile_frontend
+flutter analyze
+
